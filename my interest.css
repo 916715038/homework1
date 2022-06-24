@@ -1,0 +1,49 @@
+body {
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 90%;
+    margin: 0.5px;
+}
+
+#header{
+    background-color: #036d9a;
+    color: #08adf4;
+    margin: 12px;
+	height: 20px;
+    text-align:center;}
+
+#footer {
+     background-color: cadetblue;
+}
+h1 {
+    font-size:        260%;
+    color:            #08adf4;
+  }
+  
+h2 { 
+    font-size: 150%;
+    color:            #036d9a;
+
+    }
+#table {
+        display: table;
+        border-spacing: 13px;
+    }
+#tablerow{
+        display: table-row;
+    }
+#left{
+        display: table-cell;
+        color: #675c47;
+        padding: 10px;
+        margin: 5px;
+        vertical-align: top;
+    }
+#sidebar{
+        display: table-cell;
+        color: #675c47;
+        padding: 10px;
+        margin: 4.5px;
+        vertical-align: top;
+    }
